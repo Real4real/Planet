@@ -1,0 +1,15 @@
+.container-box {
+  .details {
+    flex-grow: 1;
+    ul {
+      li {
+        font-size: 18px;
+      }
+    }
+    img{
+      width: 250px;
+      height: 330px;
+      margin: 0 auto;
+    }
+  }
+}

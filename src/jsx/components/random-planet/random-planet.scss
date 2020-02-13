@@ -1,0 +1,33 @@
+.planet-rand-text-group {
+  padding: 0px;
+  .text-cont {
+    padding: 0px;
+  }
+}
+.buttMore {
+  margin-top: 20px;
+}
+img {
+  padding: 20px;
+}
+.planet-rand-card {
+  margin: 60px;
+  flex-flow: nowrap row !important;
+  .planet-rand-header {
+    margin: 0px;
+    background-color: rgba(143,143,143,0);
+  }
+  .planet-rand-text-group {
+    flex-basis: 58%;
+    display: flex;
+    flex-flow: wrap column;
+    h3{
+      flex-shrink: 1;
+    }
+    ul {
+      flex-shrink: 1;
+    }
+  }
+}
+
+

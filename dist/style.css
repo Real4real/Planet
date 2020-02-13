@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);@import url(https://bootswatch.com/4/darkly/bootstrap.min.css);.container-box{margin:30px 60px 0;display:grid;grid-template-columns:380px 1fr}
+li{padding:0px}
+.planet-rand-text-group{padding:0px}.planet-rand-text-group .text-cont{padding:0px}.buttMore{margin-top:20px}img{padding:20px}.planet-rand-card{margin:60px;-webkit-box-orient:horizontal !important;-webkit-box-direction:normal !important;flex-flow:nowrap row !important}.planet-rand-card .planet-rand-header{margin:0px;background-color:rgba(143,143,143,0)}.planet-rand-card .planet-rand-text-group{flex-basis:58%;display:-webkit-box;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;flex-flow:wrap column}.planet-rand-card .planet-rand-text-group h3{flex-shrink:1}.planet-rand-card .planet-rand-text-group ul{flex-shrink:1}
+.spiner-container{margin:0 auto}
+.list-group{padding:0 30px 0 0}.container-box .item-list{-webkit-box-flex:3;flex-grow:3;flex-basis:300px;padding:0px 20px 0 0}.container-box .item-list li{font-size:18px}
+.container-box .details{-webkit-box-flex:1;flex-grow:1}.container-box .details ul li{font-size:18px}.container-box .details img{width:250px;height:330px;margin:0 auto}
+.autoprefixer-test{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
