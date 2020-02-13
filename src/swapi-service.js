@@ -118,12 +118,12 @@ export default class SwapiService {
     }
 }
 
-const service = new SwapiService();
+// const service = new SwapiService();
 
-service.getResource2()
-    .then((body) => {
-        console.log(body);
-    });
+// service.getResource2()
+//     .then((body) => {
+//         console.log(body);
+//     });
 
 // service.getStarship(3)
 //     .then((body) => {
