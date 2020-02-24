@@ -8,8 +8,7 @@ import ItemDetails from '../item-details/item-details.jsx';
 const Row = ({ left, right }) => {
     return (
         <div className="container-box">
-            {left}
-            {/* {right} */}
+            {left}            
         </div>
     )
 };
