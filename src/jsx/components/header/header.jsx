@@ -22,7 +22,7 @@ class Header extends Component {
                             <Link to="/" className={classNameCurrent}>Home</Link>   
                         </li>
                     <li className="nav-item">
-                        <a href="https://github.com/Real4real/Planet">
+                        <a className="nav-link" href="https://github.com/Real4real/Planet">
                             GitHub
                         </a>
                     </li>
