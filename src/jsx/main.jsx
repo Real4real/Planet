@@ -10,6 +10,7 @@ import PlanetlePage from './components/planet-page/planet-page.jsx';
 import PostPage from './components/posts-page/posts-page.jsx';
 import ItemDetails from './components/item-details/item-details.jsx';
 import SwapiService from '../swapi-service';
+import Menu from './components/menu-page/menu.jsx';
 
 export default class App extends Component {
     swapiService = new SwapiService();
@@ -41,6 +42,7 @@ export default class App extends Component {
                         }}
                         />    
                         <Route path="/random-posts" component={PostPage} />    
+                        <Route path="/menu" component={Menu} />    
 
                 </HashRouter>
                 
